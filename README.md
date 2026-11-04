@@ -121,3 +121,4 @@ Giflura, resmi mağazalar üzerinden ücretsiz olarak dağıtılan tescilli bir 
 
 Copyright (c) Furkan Tecir. All rights reserved.  
 Giflura is proprietary software distributed for free via official browser stores. Source code is closed and may not be reproduced or redistributed without permission.
+
