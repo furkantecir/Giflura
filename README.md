@@ -6,7 +6,7 @@
 
 <p align="center">
   <!-- Chrome Web Store Butonu -->
- <a href="https://chromewebstore.google.com/detail/phkmdcjiafaacblfhdkfemobdbmpefid?utm_source=item-share-cb" target="_blank" rel="noopener noreferrer">
+ <a href="https://addons.mozilla.org/tr/firefox/addon/giflura/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Chrome_Web_Store-Giflura-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store" height="42" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
